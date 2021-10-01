@@ -4,5 +4,5 @@
 - [x] CSS
 - [x] JS
 - [ ] Node JS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlanLuci&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- [x] Unity C#
+- [ ] Spigot Plugin Development
