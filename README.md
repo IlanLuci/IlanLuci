@@ -1,8 +1,42 @@
-[![Ilan's github stats](https://github-readme-stats.vercel.app/api?username=IlanLuci&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<h2>👋 Hey, I'm Ilan Luciano!</h2>  
+<ul>
+    <li>🕒 I'm in 9th grade (14 years old)</li>
+    <li>💻 I've been programming since I was 10</li>
+</ul>
+<hr>
 
-- [x] HTML
-- [x] CSS
-- [x] JS
-- [ ] Node JS
-- [x] Unity C#
-- [ ] Spigot Plugin Development
+<h2>👨‍💻 What do I enjoy using?</h2>  
+<details>
+    <summary>🌐 Frontend</summary>
+    <img height="20px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/js-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></img>
+</details>
+<details>
+    <summary>⚡ Backend</summary>
+    <img height="20px" src="https://img.shields.io/badge/node-6DA55F?style=flat-square&logo=node.js&logoColor=white"></img>
+    <img height="20px" src="https://img.shields.io/badge/express-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"></img>
+</details>
+<details>
+    <summary>🎮 Game Dev</summary>
+    <img height="20px" src="https://img.shields.io/badge/unity-%23F5F5F5.svg?style=flat-square&logo=Unity&logoColor=black"></img>
+    <img height="20px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"></img>
+</details>
+<details>
+    <summary>✏️ Text Editor</summary> 
+    <img height="20px" src="https://img.shields.io/badge/vsc-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></img>
+</details>
+<details>
+    <summary>❓ Other</summary>
+    <img height="20px" src="https://img.shields.io/badge/win10-0078D6?style=flat-square&logo=windows&logoColor=white"></img>
+</details>
+<hr>
+
+<h2>📞 How to reach me!</h2>
+<p>
+<img height="20px" src="https://img.shields.io/badge/GLXY Smith%237104-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"></img>
+<img height="20px" src="https://img.shields.io/badge/ilanluciano1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></img>
+</p>
+<hr>
+
+<image src="https://komarev.com/ghpvc/?username=ilanluci&color=grey&style=flat-square"></image>
