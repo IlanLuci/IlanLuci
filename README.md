@@ -31,7 +31,4 @@
     <img height="20px" src="https://img.shields.io/badge/win10-0078D6?style=flat-square&logo=windows&logoColor=white"></img>
 </details>
 <hr>
-
-<hr>
-
 <image src="https://komarev.com/ghpvc/?username=ilanluci&color=grey&style=flat-square"></image>
