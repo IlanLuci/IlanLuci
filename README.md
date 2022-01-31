@@ -34,7 +34,6 @@
 
 <h2>📞 How to reach me!</h2>
 <p>
-<img height="20px" src="https://img.shields.io/badge/GLXY Smith%237104-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"></img>
 <img height="20px" src="https://img.shields.io/badge/ilanluciano1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></img>
 </p>
 <hr>
