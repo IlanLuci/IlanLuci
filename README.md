@@ -32,10 +32,6 @@
 </details>
 <hr>
 
-<h2>📞 How to reach me!</h2>
-<p>
-<img height="20px" src="https://img.shields.io/badge/ilanluciano1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></img>
-</p>
 <hr>
 
 <image src="https://komarev.com/ghpvc/?username=ilanluci&color=grey&style=flat-square"></image>
