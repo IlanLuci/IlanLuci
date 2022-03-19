@@ -1,4 +1,4 @@
-<h2>👋 Hey, I'm Ilan Luciano!</h2>  
+<h2>👋 Hey, I'm Ilan L!</h2>  
 <ul>
     <li>🕒 I'm in 9th grade (15 years old)</li>
     <li>💻 I've been programming since I was 10</li>
