@@ -1,6 +1,6 @@
 <h2>👋 Hey, I'm Ilan L!</h2>  
 <ul>
-    <li>🕒 I'm in 9th grade (15 years old)</li>
+    <li>🕒 I'm in 10th grade (15 years old)</li>
     <li>💻 I've been programming since I was 10</li>
 </ul>
 <hr>
