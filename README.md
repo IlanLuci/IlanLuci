@@ -1,6 +1,6 @@
 <h2>👋 Hey, I'm Ilan L!</h2>  
 <ul>
-    <li>🕒 I'm in 10th grade (15 years old)</li>
+    <li>🕒 I'm in 10th grade (16 years old)</li>
     <li>💻 I've been programming since I was 10</li>
 </ul>
 <hr>
@@ -29,6 +29,8 @@
 <details>
     <summary>❓ Other</summary>
     <img height="20px" src="https://img.shields.io/badge/win10-0078D6?style=flat-square&logo=windows&logoColor=white"></img>
+    <img height="20px" src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social"></img>
+    
 </details>
 <hr>
 <image src="https://komarev.com/ghpvc/?username=ilanluci&color=grey&style=flat-square"></image>
