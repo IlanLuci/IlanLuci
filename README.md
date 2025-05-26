@@ -1,7 +1,7 @@
 <h2>👋 Hey, I'm Ilan Luciano!</h2>  
 <ul>
     <li>🕒 I'm in 12th grade (18 years old)</li>
-    <li>💻 I've been programming since I was 10</li>
+    <li>💻 I've been programming for 8 years</li>
 </ul>
 <hr>
 
