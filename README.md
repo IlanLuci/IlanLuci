@@ -3,4 +3,3 @@
     <li>🕒 Freshman at Lehigh CSB</li>
     <li>💻 I've been programming for 8 years</li>
 </ul>
-<hr>
